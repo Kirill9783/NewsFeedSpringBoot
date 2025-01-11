@@ -1,0 +1,9 @@
+server:
+  error:
+    include-message: always
+title:
+  length:
+    max: 100
+text:
+  length:
+    max: 1000
