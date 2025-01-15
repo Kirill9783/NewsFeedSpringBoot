@@ -1,4 +1,4 @@
-package com.news.spring.controller;
+package com.news.spring.controllers;
 
 import com.news.spring.dto.NewsDto;
 import com.news.spring.services.NewsCRUDService;
